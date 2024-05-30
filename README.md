@@ -2,6 +2,10 @@
 
 ## Usage
 
+### Installation (go module)
+
+`go get github.com/brewerywiwis/decimalcodec`
+
 ### Example 1
 
 ```
