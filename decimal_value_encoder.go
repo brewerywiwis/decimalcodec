@@ -1,4 +1,4 @@
-package customregistry
+package decimalcodec
 
 import (
 	"reflect"
